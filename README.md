@@ -32,6 +32,7 @@ A list of statistical language models for low-resource languages, collected from
 |Facebook Low Resource MT Benchmark (FLoRes)| https://github.com/facebookresearch/flores|
 |Translation Models trained on OPUS (1000 languages) | https://huggingface.co/Helsinki-NLP|
 |Low resource languages | https://github.com/RichardLitt/low-resource-languages|
+|Masakhane- Machine Translation for Africa| https://github.com/masakhane-io/masakhane-mt|
 | OPUS - the Open Parallel Corpus | http://opus.nlpl.eu/|
 |Veʹrdd- an open-source dictionary editing framework with the focus on low-resourced and endangered languages.| https://github.com/mokha/verdd|
 |WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia|https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix|
