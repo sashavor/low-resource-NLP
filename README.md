@@ -24,8 +24,10 @@ A list of statistical language models for low-resource languages, collected from
 
 | Description | URL       |
 | ----------- | --------         |
-| An Crúbadán - Corpus Building for Minority Languages | http://crubadan.org/|
+|An Crúbadán - Corpus Building for Minority Languages | http://crubadan.org/|
+|CogNet: a large-scale, high-quality cognate database for 338 languages, 1.07M words, and 8.1 million cognates| https://github.com/kbatsuren/CogNet|
 |Dataset for Paper - A Neural Approach to Multilingual Sentiment Analysis in Low Resource Languages| https://github.com/DLNoobs/Elsevier-Multilingual-Sentiment-Analysis|
+|Facebook Low Resource MT Benchmark (FLoRes)| https://github.com/facebookresearch/flores|
 |Low resource languages | https://github.com/RichardLitt/low-resource-languages|
 |Veʹrdd- an open-source dictionary editing framework with the focus on low-resourced and endangered languages.| https://github.com/mokha/verdd|
-|CogNet: a large-scale, high-quality cognate database for 338 languages, 1.07M words, and 8.1 million cognates| https://github.com/kbatsuren/CogNet|
+|WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia|https://github.com/facebookresearch/LASER/tree/master/tasks/WikiMatrix|
