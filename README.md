@@ -5,6 +5,7 @@ A list of statistical language models for low-resource languages, collected from
 
 | Language      | Description | URL       |
 | ------------- | ----------- | --------         |
+|Bangla | BanFakeNews: A Dataset for Detecting Fake News in Bangla (LREC 2020)| https://github.com/Rowan1697/FakeNews|
 | Filipino      | Filipino-Text-Benchmarks       | https://github.com/jcblaisecruz02/Filipino-Text-Benchmarks |
 |Hausa and Yoruba | Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages| https://github.com/uds-lsv/transfer-distant-transformer-african|
 |Hindi | hindi-nli-data| https://github.com/vgupta123/hindi-nli-data|
