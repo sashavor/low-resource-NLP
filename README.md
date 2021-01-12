@@ -29,6 +29,7 @@ A list of statistical language models for low-resource languages, collected from
 | ----------- | --------         |
 |An Crúbadán - Corpus Building for Minority Languages | http://crubadan.org/|
 |CogNet: a large-scale, high-quality cognate database for 338 languages, 1.07M words, and 8.1 million cognates| https://github.com/kbatsuren/CogNet|
+|Corpus Crawler : a tool for making linguistic resources from the internet (with existing corpora) | https://github.com/google/corpuscrawler |
 |Dataset for Paper - A Neural Approach to Multilingual Sentiment Analysis in Low Resource Languages| https://github.com/DLNoobs/Elsevier-Multilingual-Sentiment-Analysis|
 |Facebook Low Resource MT Benchmark (FLoRes)| https://github.com/facebookresearch/flores|
 |Translation Models trained on OPUS (1000 languages) | https://huggingface.co/Helsinki-NLP|
